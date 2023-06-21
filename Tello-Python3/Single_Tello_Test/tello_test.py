@@ -2,7 +2,7 @@ from tello import Tello
 import sys
 from datetime import datetime
 import time
-
+ 
 start_time = str(datetime.now())
 
 file_name = sys.argv[1]
